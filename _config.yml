@@ -1,6 +1,6 @@
 # main text of home
-name: Anqi Zhu
-bio: A curious scientist with a prior knowledge in Biostatistics.
+name: Ze Tristan SHI
+bio: A Bioinformatics Scientist with a Knowledge in Neuroscience.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -59,6 +59,7 @@ authors:
   rootze:
     name: Ze Tristan SHI
     bio: A Bioinformatics Scientist with a Knowledge in Neuroscience.
+              A Man codes with Coffee
     external-image: false
     picture: assets/images/profile.jpg
     twitter: ZeTristanShi

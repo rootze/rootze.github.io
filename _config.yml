@@ -83,7 +83,7 @@ Project: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 publications: true
-software: true
+code: true
 presentations: true
 blog: true
 

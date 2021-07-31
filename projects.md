@@ -1,5 +1,5 @@
 ---
-title: Projects $ Software
+title: Projects
 layout: page
 ---
 <img width="100" src="../assets/images/anteater.png">
@@ -21,11 +21,11 @@ Collaboration with Dr. Michael Love and Dr. Joseph Ibrahim (UNC-CH).<br>
 `apeglm` methods can be accessed via `lfcShrink`
 in the [DESeq2](http://bioconductor.org/packages/DESeq2) package. -->
 
-<h2>
+<!-- <h2>
 Software
 </h2>
 
-* Coming Soon
+* Coming Soon -->
 
 <!-- <a href="https://bioconductor.org/packages/fishpond">fishpond</a>
 <img src="https://bioconductor.org/shields/years-in-bioc/fishpond.svg">

@@ -1,6 +1,6 @@
 ---
-title: Projects
 layout: page
+title: Projects
 ---
 <img width="100" src="../assets/images/anteater.png">
 <img width="100" src="../assets/images/multiomics.png">

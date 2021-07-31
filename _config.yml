@@ -86,7 +86,6 @@ projects: true
 publications: true
 software: true
 presentations: true
-teaching2: true
 blog: true
 
 # do you want to show the "read time" of the posts?

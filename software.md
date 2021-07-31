@@ -1,5 +1,5 @@
 ---
-title: Software
+title: Code
 layout: page
 ---
 <img width="100" src="../assets/images/anteater.png">

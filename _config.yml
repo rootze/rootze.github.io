@@ -82,7 +82,7 @@ pagination:
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-projects: true
+projects_software: true
 publications: true
 presentations: true
 blog: true

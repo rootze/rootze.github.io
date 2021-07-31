@@ -85,7 +85,8 @@ about: true
 publications: true
 code: true
 presentations: true
-blog: true # inside the _post I can write blog like them and turn the hidden True or False 
+blog: true
+# inside the _post I can write blog like them and turn the hidden True or False
 
 # do you want to show the "read time" of the posts?
 read-time: true

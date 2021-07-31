@@ -1,0 +1,35 @@
+{% if page.title == "Home"
+   or page.title == "About"
+%}{% assign showHeader = true %}{% endif %}
+
+<!-- added: new minimal header-->
+{% if page.title == "Blog" or page.title == "Projects" or page.title == "Publications" or page.title == "Software" or page.title == "Presentations" or page.title == "Teaching"%}{% assign showMinHeader = true %}{% endif %}
+
+{% if showHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+        {% else %}
+            <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </span>
+        {% endif %}
+
+        <h1 class="title">{{ site.name }}</h1>
+        <h2 class="description">{{ site.bio }}</h2>
+
+        {% include social-links.html %}
+    </header>
+{% endif %}
+
+<!-- added: new minimal header-->
+{% if showMinHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        <h1 class="title">{{ page.title }}</h1>
+        {% include social-links.html %}
+    </header>
+{% endif %}
+
+{% include nav.html %}

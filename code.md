@@ -6,7 +6,7 @@ layout: page
 <img width="100" src="../assets/images/multiomics.png">
 
 <h2>
-Software
+Code
 </h2>
 
 * Coming Soon

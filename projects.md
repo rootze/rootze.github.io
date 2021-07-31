@@ -1,5 +1,5 @@
 ---
-title: Projects & Software
+title: Projects $ Software
 layout: page
 ---
 <img width="100" src="../assets/images/anteater.png">

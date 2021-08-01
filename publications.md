@@ -7,7 +7,7 @@ My google scholar page is [here](https://scholar.google.com/citations?user=citat
 
 <h2>Method paper</h2>
 
-Ma, Zhong; Flynn, Jennifer; Libra, Grant; **Shi, Zechuan**.
+Ma, Zhong; Flynn, Jennifer; Libra, Grant; **Shi, Zechuan**. (2018).
 Elevated CO2 Accelerates Phosphorus Depletion by Common Bean (Phaseolus vulgaris) in Association with Altered Leaf Biochemical Properties
 *Pedosphere*, 28, 422-429. [DOI: 10.1016/S1002-0160(17)60420-X](https://www.sciencedirect.com/science/article/abs/pii/S100201601760420X?via%3Dihub)
 

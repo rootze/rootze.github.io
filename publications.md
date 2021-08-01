@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-My google scholar page is [here](https://scholar.google.com/citations?user=citations?user=QjZhFxIAAAAJ&hl=en&user=QjZhFxIAAAAJ).
+My Google Scholar page is [here](https://scholar.google.com/citations?user=citations?user=QjZhFxIAAAAJ&hl=en&user=QjZhFxIAAAAJ).
 
 <h2>Method paper</h2>
 

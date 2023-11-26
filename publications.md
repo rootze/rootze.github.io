@@ -10,17 +10,19 @@ My Google Scholar page is [here](https://scholar.google.com/citations?user=citat
 *APA 7th edition*
 
 ### 2023
-Miyoshi, E., Morabito, S., Henningfield, CM. [et al., including **Shi, Z.**]. (2023). Spatial and single-nucleus transcriptomic analysis of genetic and sporadic forms of Alzheimer's Disease. (In Review)
+* Garcia-Agudo, LF., **Shi, Z.**, et al. (2023). BIN1K358R suppresses glial response to plaques in mouse model of Alzheimer’s Disease. (In Review)
 
-Tiwari, V., Prajapati, B., Asare, Y. [et al., including **Shi, Z.**]. (2023). Innate immune training restores pro-reparative myeloid functions for remyelination in the aged central nervous system. (In Review)
+* Miyoshi, E., Morabito, S., Henningfield, CM. [et al., including **Shi, Z.**]. (2023). Spatial and single-nucleus transcriptomic analysis of genetic and sporadic forms of Alzheimer's Disease. (In Review)
 
-Tran, K.M., Kawauchi, S., Kramár, E.A. [et al., including **Shi, Z.**]. (2023). *A Trem2R47H mouse model without cryptic splicing drives age- and disease-dependent tissue damage and synaptic loss in response to plaques*. BioMed Central Mol Neurodegeneration. [DOI: https://doi.org/10.1186/s13024-023-00598-4.](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-023-00598-4)
+* Tiwari, V., Prajapati, B., Asare, Y. [et al., including **Shi, Z.**]. (2023). Innate immune training restores pro-reparative myeloid functions for remyelination in the aged central nervous system. (In Review)
+
+* Tran, K.M., Kawauchi, S., Kramár, E.A. [et al., including **Shi, Z.**]. (2023). *A Trem2R47H mouse model without cryptic splicing drives age- and disease-dependent tissue damage and synaptic loss in response to plaques*. BioMed Central Mol Neurodegeneration. [DOI: https://doi.org/10.1186/s13024-023-00598-4.](https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-023-00598-4)
 
 ### 2022
-**Shi, Z.**, Das, S., Morabito, S., Miyoshi, E., & Swarup, V. (2022). *Protocol for single-nucleus ATAC sequencing and bioinformatic analysis in frozen human brain tissue*. STAR Protocols, 3(3), 101491. [DOI: https://doi.org/10.1016/j.xpro.2022.101491.](https://www.sciencedirect.com/science/article/pii/S2666166722003719)
+* **Shi, Z.**, Das, S., Morabito, S., Miyoshi, E., & Swarup, V. (2022). *Protocol for single-nucleus ATAC sequencing and bioinformatic analysis in frozen human brain tissue*. STAR Protocols, 3(3), 101491. [DOI: https://doi.org/10.1016/j.xpro.2022.101491.](https://www.sciencedirect.com/science/article/pii/S2666166722003719)
 
 ### 2018
-Ma, Z., Flynn, J., Libra, G., & **Shi, Z.** (2018). *Elevated CO 2 Accelerates Phosphorus Depletion by Common Bean ( Phaseolus vulgaris ) in Association with Altered Leaf Biochemical Properties*. Pedosphere, 28(3), 422–429. [DOI: 10.1016/S1002-0160(17)60420-X](https://www.sciencedirect.com/science/article/abs/pii/S100201601760420X?via%3Dihub)
+* Ma, Z., Flynn, J., Libra, G., & **Shi, Z.** (2018). *Elevated CO 2 Accelerates Phosphorus Depletion by Common Bean ( Phaseolus vulgaris ) in Association with Altered Leaf Biochemical Properties*. Pedosphere, 28(3), 422–429. [DOI: 10.1016/S1002-0160(17)60420-X](https://www.sciencedirect.com/science/article/abs/pii/S100201601760420X?via%3Dihub)
 
 
 

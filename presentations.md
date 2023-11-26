@@ -5,15 +5,19 @@ layout: page
 
 <h2>Talks</h2>
 
-* July-August 2022, Alzheimer's Association International Conference 2022, San Diego CA  
+* <b>Jul-Aug 2022</b>, Alzheimer's Association International Conference 2022, San Diego CA  
 [*"Single-nucleus open chromatin accessibility landscape of Pick's and Alzheimer's disease"*](https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/61354)
 
 <h2>Posters</h2>
 
-* May 2015, Student NGS Project Meeting of Truman State University, Kirksville, MO  
+* <b>Nov 2023</b>,  American Society of Human Genetics 2023, Washington DC 
+*“Characterizing BIN1K358R SNP rs138047593 effects in 5xFAD plaque pathology of Alzheimer's
+disease using snRNA-seq”*
+
+* <b>May 2015</b>, Student NGS Project Meeting of Truman State University, Kirksville, MO  
 *"RNA-Seq Analysis of DNA Damage Resistance on TuBo epithelial cell and Mammosphere p1"*
 
-* April 2015, The Annual Conference of Missouri Academy of Science, St. Joseph, MO  
+* <b>April 2015</b>, The Annual Conference of Missouri Academy of Science, St. Joseph, MO  
 *"Effect of Elevated CO2 on Growth, Biomass Partitioning, and Phosphorus Uptake in Common Bean (Phaseolus vulgaris) under Varied Nitrogen or Phosphorus Availability"*
 
 

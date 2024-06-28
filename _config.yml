@@ -131,8 +131,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 我想知道一塊有了夢想的石頭能走多遠 # blog_name will be displayed in your blog page
+blog_name:  # blog_name will be displayed in your blog page
 blog_description: Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. -- Samuel Beckett
+                  我想知道一塊有了夢想的石頭能走多遠
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -303,7 +304,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["code"] #["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

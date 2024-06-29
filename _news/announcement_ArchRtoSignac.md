@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ArchRtoSignac <a href="https://github.com/swaruplabUCI/ArchRtoSignac">: an Object Conversion Package that I developed for ArchR to Signac.
+<a href="https://github.com/swaruplabUCI/ArchRtoSignac">ArchRtoSignac</a>: an Object Conversion Package that I developed for ArchR to Signac.

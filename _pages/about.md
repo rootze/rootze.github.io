@@ -17,6 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Bioinformatics Ph.D. Candidate in [Dr. Vivek Swarup's lab](https://swaruplab.bio.uci.edu/) at the University of California, Irvine. My thesis project utilizes statistical methods and computation tools to study Alzheimer’s disease, potentially identifying novel therapeutic targets.
 
-I graduated with a Master in Biotechnology from [Johns Hopkins University](https://www.jhu.edu/) in 2018. I worked with [Dr. Lewis Chodosh](https://www.med.upenn.edu/apps/faculty/index.php/g275/p20564) at the University of Pennsylvania to develop treatments for recurrent breast cancer. I applied  applied statistical methods to quantify the drug effects among 4 different preclinical drug trials. At UPenn, I also participated in the [Penn Biotech Group (PBG)](https://pennbiotechgroup.org/), a student-led Healthcare Consulting Club, helping small biotech start-ups form business plans and do market research.  
+I am a Bioinformatics Ph.D. candidate in [Dr. Vivek Swarup's lab](https://swaruplab.bio.uci.edu/) at the University of California, Irvine. My thesis research focuses on leveraging statistical methods and computational tools to investigate Alzheimer’s disease, with the ultimate goal of discovering new therapeutic targets.
+
+I graduated from [Johns Hopkins University](https://www.jhu.edu/) with a degree in Biotechnology in 2018. Following that, I worked as a research specialist in [Dr. Lewis Chodosh's lab](https://www.med.upenn.edu/apps/faculty/index.php/g275/p20564) at the University of Pennsylvania, where I contributed to developing treatments for recurrent breast cancer. There, I conducted hands-on drug efficacy experiments and applied statistical methods to evaluate drug effects across four preclinical trials. Additionally, my undergraduate research experience includes performing tissue culture, siRNA knockdown, flow cytometry, and other molecular approaches to advance our understanding in biomedical research.
+
+<!-- Additionally, I actively participated in the [Penn Biotech Group (PBG)](https://pennbiotechgroup.org/), a student-led healthcare consulting club, where I assisted biotech startups with business plan development and market research. -->

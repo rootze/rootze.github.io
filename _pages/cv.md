@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: shi_CV.pdf
+cv_pdf: ZechuanShi_CV.pdf
 description:
 toc:
   sidebar: left

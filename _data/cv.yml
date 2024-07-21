@@ -1,0 +1,12 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Zechuan Shi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate
+      institution: University of California, Irvine"
+      year: 2020 - Present

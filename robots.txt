@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rootze.github.io//al-folio/sitemap.xml
+Sitemap: https://rootze.github.io/sitemap.xml

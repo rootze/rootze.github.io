@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully advanced in PhD; now officially a PhD Candidate! :sparkles: :smile:
+Successfully advanced in PhD; now officially a PhD Candidate! :sparkles: :smile: :brain:

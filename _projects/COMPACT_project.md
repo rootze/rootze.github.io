@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: COMPACT - Module Perturbation Analysis
+description: COMPACT : Co-expression Module Perturbation Analysis in Cellular Transcriptomes
 img: assets/img/4.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---

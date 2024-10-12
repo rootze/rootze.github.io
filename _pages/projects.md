@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. -- Samuel Beckett
+title: projects
 permalink: /projects/
-description: A growing collection of your cool projects and I am currently working on organizing files here.
+description: Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. -- Samuel Beckett
 nav: true
 nav_order: 4
 display_categories: [work, fun]

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Jul-Aug 2022 00:00:00-0800
+date: 2022-08-02 2022 00:00:00-0800
 inline: true
 related_posts: false
 ---

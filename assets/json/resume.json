@@ -5,22 +5,15 @@
     "image": "",
     "email": "",
     "phone": "",
-    "url": "https://github.com/rootze/rootze.github.io",
-    "summary": "PhD Candidate in Bioinformatics at University of California, Irvine, specializing in single-cell genomics and neurodegenerative disease research.",
+    "url": "",
+    "summary": "Specializing in single-cell genomics and neurodegenerative disease research",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Irvine",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "rootze",
-        "url": "https://github.com/rootze"
-      }
-    ]
+    }
   },
   "education": [
     {
@@ -28,18 +21,18 @@
       "location": "Irvine, CA, USA",
       "url": "https://www.uci.edu",
       "area": "Bioinformatics",
-      "studyType": "PhD",
-      "startDate": "2020-09-01",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2020-09",
       "endDate": "Present",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Johns Hopkins University",
       "location": "Baltimore, MD, USA",
       "url": "https://www.jhu.edu",
       "area": "Biotechnology",
-      "studyType": "MS",
+      "studyType": "Master of Science",
       "startDate": "2016-09",
       "endDate": "2018-05",
       "score": "",

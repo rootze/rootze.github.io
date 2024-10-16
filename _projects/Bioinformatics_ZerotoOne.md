@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bioinformatics: Zero to One
+title: "Bioinformatics - Zero to One"
 description: These are my notes and practical guide to becoming a bioinformatic scientist
 img: assets/img/projects_img/Github_logo_breakingbad.png
 importance: 1

@@ -4,9 +4,11 @@ title: Single-cell Regulatory Occupancy Archive in Dementia
 description: scROAD - A database offers comprehensive information on single-cell cCRE transcription factor occupancy data
 img: assets/img/TF_Occupancy.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
+
+Database: Single-cell Regulatory Occupancy Archive in Dementia -- [scROAD](https://swaruplab.bio.uci.edu/scROAD/)
 
 ### What We Can Do with scATAC-seq Data
 

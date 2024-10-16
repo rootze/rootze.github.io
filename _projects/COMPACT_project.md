@@ -4,7 +4,7 @@ title: "COMPACT - Module Perturbation Analysis"
 description: Co-expression Module Perturbation Analysis in Cellular Transcriptomes
 img: assets/img/6.jpg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 

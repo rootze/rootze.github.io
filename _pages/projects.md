@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. -- Samuel Beckett
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [research, bioinformatic notes, fun]
 horizontal: false
 ---
 

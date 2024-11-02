@@ -31,7 +31,7 @@ This database {% cite shi_single-nucleus_2024 %} offers comprehensive informatio
     </div>
 </div>
 <div class="caption">
-    GWAS snATAC scCis-TF occupancy plot showcasing key transcription factor binding sites.
+    GWAS snATAC scCis-TF occupancy plot showcasing key transcription factor binding sites
 </div>
 
 

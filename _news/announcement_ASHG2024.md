@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will present my research talk titled: "In Silico Module Perturbation Analysis unlocks a functional understanding of the dynamic gene networks in single-cell data" at American Society Human Genetics Annual Meeting 2024, Denvor CO  
+I presented my research talk titled: ["In Silico Module Perturbation Analysis unlocks a functional understanding of the dynamic gene networks in single-cell data"](assets/img/Conference/ASHG2024_Talk.png) at American Society Human Genetics Annual Meeting 2024, Denvor CO  

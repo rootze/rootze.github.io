@@ -63,9 +63,17 @@ Further complicating the picture, [Baek et al., 2017](https://doi.org/10.1016/j.
 
 This phenomenon is illustrated in Fig. 2 below, where we depict two scenarios: (1) open chromatin regions with TF binding ('functional regulation') and (2) open chromatin regions without TF binding ('chromatin relaxation').
 
-img(src = "https://raw.githubusercontent.com/rootze/scROAD/main/images/TF_Footprinting_Scenario.png", height = "450px", style = "display: block; margin: 0 auto;")
 
-Fig. 2 shows two key scenarios of transcription factor binding in open chromatin regions. Scenario 1 highlights regions where open chromatin coincides with functional TF binding, while Scenario 2 depicts regions with open chromatin but without active TF binding, indicating chromatin relaxation rather than regulation.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://raw.githubusercontent.com/rootze/scROAD/main/images/TF_Footprinting_Scenario.png" title="TF Footprinting Scenario" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fig. 2 shows two key scenarios of transcription factor binding in open chromatin regions. Scenario 1 highlights regions where open chromatin coincides with functional TF binding, while Scenario 2 depicts regions with open chromatin but without active TF binding, indicating chromatin relaxation rather than regulation.
+</div>
+
+
 
 #### A Funtional TF Footprinting Approach on Disease Related Regulatory Network
 

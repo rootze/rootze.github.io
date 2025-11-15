@@ -36,4 +36,30 @@
             <i class="fa-regular fa-envelope"></i>
         </a>
     {% endif %}
+
+    {% if site.orcid %}
+      <a href="https://orcid.org/{{ site.orcid }}" class="icon-orcid" target="_blank" rel="noopener">
+        <!-- your ORCID SVG/icon here -->
+      </a>
+    {% endif %}
+
+    {% if site.researchgate %}
+      <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" class="icon-rg" target="_blank" rel="noopener">
+        <!-- your ResearchGate SVG/icon here -->
+      </a>
+    {% endif %}
+
+    {% if site.scholar %}
+    <a href="https://scholar.google.com/citations?user={{ site.scholar }}"
+       class="icon-scholar"
+       target="_blank"
+       rel="noopener"
+       aria-label="Google Scholar">
+      <svg height="26" width="26" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 2L1 9l11 7 9-5.727V17h2V9L12 2zm0 9.5L5.5 9 12 5.5 18.5 9 12 11.5zm-7 2.75v2.25C5 18.992 8.134 22 12 22s7-3.008 7-5.5v-2.25l-7 4.25-7-4.25z"/>
+      </svg>
+    </a>
+    {% endif %}
+
+
 </div>

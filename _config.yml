@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: ZeChuan Shi
+bio: A Bioinformatics Scientist converts Coffee into Codes
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-# your site color theme, true for dark theme, 
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: auto
 
@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/documents/Anqi_Zhu_Resume.pdf
 
 url: https://rootze.github.io/
 # your url: https://USERNAME.github.io
@@ -82,6 +82,10 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+software: true
+publications: true
+presentations: true
+# teaching: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

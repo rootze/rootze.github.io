@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/documents/ZechuanShiCV.pdf
+resume-url: /assets/documents/ZechuanShiCV.pdf
 
 url: https://rootze.github.io/
 # your url: https://USERNAME.github.io

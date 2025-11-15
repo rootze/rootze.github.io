@@ -50,7 +50,7 @@
       <!-- </a> -->
     <!-- {% endif %} -->
 
-    {% if site.scholar %}
+    <!-- {% if site.scholar %}
       <a href="https://scholar.google.com/citations?user={{ site.scholar }}"
          class="icon-scholar"
          target="_blank"
@@ -58,7 +58,18 @@
          aria-label="Google Scholar">
        <i class="fa-brands fa-google-scholar"></i>
       </a>
-    {% endif %}
+    {% endif %} -->
+
+    {% if site.scholar %}
+    <a class="link"
+       data-title="Google Scholar"
+       href="https://scholar.google.com/citations?user={{ site.scholar }}"
+       target="_blank"
+       rel="noopener"
+       aria-label="Google Scholar">
+        <i class="fa-brands fa-google"></i>
+    </a>
+{% endif %}
 
 
 </div>

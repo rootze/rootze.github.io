@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://rootze.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,26 +34,42 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+twitter: ZeTristanShi
+linkedin: zechuan-tristan-shi-55b21387
+# youtube: myyoutube
+github: rootze
+googlescholar: QjZhFxIAAAAJ
+orcid: 0000-0002-2844-5816
+researchgate: Zechuan-Shi
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: zechuas@uci.edu
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+# linkedin: mylinkedin
+# github: mygithub
+# email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  zechuanshi:
+    name: ZeChuan Shi
+    bio: A Bioinformatics Scientist converts Coffee into Codes
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: ZeTristanShi
+  # jamesfoster:
+  #   name: James Foster
+  #   bio: A Man who develops software with coffee
+  #   external-image: false
+  #   picture: assets/images/james.jpg
+  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

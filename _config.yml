@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/documents/Anqi_Zhu_Resume.pdf
+resume-url: assets/documents/ZechuanShiCV.pdf
 
 url: https://rootze.github.io/
 # your url: https://USERNAME.github.io
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
+  shortname: rootze # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -58,7 +58,7 @@ email: zechuas@uci.edu
 # email: myemail@gmail.com
 
 authors:
-  zechuanshi:
+  rootze:
     name: ZeChuan Shi
     bio: A Bioinformatics Scientist converts Coffee into Codes
     external-image: false
@@ -77,14 +77,13 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
-
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+projects: true
 software: true
 publications: true
 presentations: true
+blog: true
 # teaching: true
 
 # do you want to show the "read time" of the posts?

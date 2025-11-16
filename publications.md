@@ -11,15 +11,13 @@ For a full list of publications, please see my
 or my <a href="https://scholar.google.com/citations?user=QjZhFxIAAAAJ" target="_blank">Google Scholar</a> page.
 </p>
 
-<p>† These authors contributed equally</p>
+<p>‡ These authors contributed equally</p>
 
 <hr>
 
-† - These authors contributed equally
-
 <h2>Method paper</h2>
 
-**Shi, Z.**†, Morabito, S.†, et al. (2025). In silico module perturbation analysis unlocks a functional understanding of the dynamic gene networks in single-cell data. (Manuscript in preparation)
+**Shi, Z.**‡, Morabito, S.‡, et al. (2025). In silico module perturbation analysis unlocks a functional understanding of the dynamic gene networks in single-cell data. (Manuscript in preparation)
 
 **Shi, Z.**, Das, S., Morabito, S., Miyoshi, E., & Swarup, V. (2022). Protocol for single-nucleus ATAC sequencing and bioinformatic analysis in frozen human brain tissue. *STAR Protocols*, 3(3), 101491. [DOI: 10.1016/j.xpro.2022.101491](https://doi.org/10.1016/j.xpro.2022.101491).
 `ArchR2Signac` function in the [ArchRtoSignac](https://github.com/swaruplabUCI/ArchRtoSignac) R package

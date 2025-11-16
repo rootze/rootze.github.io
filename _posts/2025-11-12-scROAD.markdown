@@ -18,9 +18,8 @@ importance: 1
 ## **Single-cell Regulatory Occupancy Archive in Dementia — [scROAD](https://swaruplab.bio.uci.edu/scROAD/)**
 
 <!-- ![scROAD](/assets/images/projects_img/TF_Occupancy.png){: width="60%" .center } -->
-| ![Fig1](/assets/images/projects_img/TF_Occupancy.png){: width="60%" } | ![Logo](https://raw.githubusercontent.com/rootze/scROAD/main/images/logo_database.png){: width="30%" } |
-| --- | --- |
-| *scROAD overview* | *scROAD dataset logo* |
+![TF Occupancy Diagram](/assets/images/projects_img/TF_Occupancy.png){: width="50%" } ![Logo](https://raw.githubusercontent.com/rootze/scROAD/main/images/logo_database.png){: width="15%" }
+
 
 ---
 

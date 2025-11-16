@@ -64,9 +64,9 @@ layout: page
   <li><a href="#hdwgcna">hdWGCNA</a></li>
 </ul> -->
 <ul class="software-toc">
-  <li><a href="#scroad" style="font-size: 1.0em;">scROAD</a></li>
-  <li><a href="#archrtosignac" style="font-size: 1.0em;">ArchRtoSignac</a></li>
-  <li><a href="#hdwgcna" style="font-size: 1.0em;">hdWGCNA</a></li>
+  <li><a href="#scroad" style="font-size: 0.8em;">scROAD</a></li>
+  <li><a href="#archrtosignac" style="font-size: 0.8em;">ArchRtoSignac</a></li>
+  <li><a href="#hdwgcna" style="font-size: 0.8em;">hdWGCNA</a></li>
 </ul>
 
 <h2>Developer</h2>
@@ -79,7 +79,7 @@ layout: page
     <img src="https://img.shields.io/badge/type-interactive%20database-blueviolet" alt="Interactive database">
     <img src="https://img.shields.io/badge/status-online-brightgreen" alt="Status online">
     <a class="badge-link" href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/publication-Science%20Advances-%237000FF" alt="Science Advances Publication">
+      <img src="https://img.shields.io/badge/publication-Science%20Advances-%2300A1D7" alt="Science Advances Publication">
     </a>
   </div>
 
@@ -102,7 +102,7 @@ layout: page
       <img src="https://img.shields.io/github/issues-closed-raw/swaruplabUCI/ArchRtoSignac?label=closed%20issues&color=green" alt="Closed Issues">
     </a>
     <a class="badge-link" href="https://www.sciencedirect.com/science/article/pii/S2666166722003719?via%3Dihub" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/publication-STAR%20Protocols-%237000FF" alt="STAR Protocols Publication">
+      <img src="https://img.shields.io/badge/publication-STAR%20Protocols-%2300A1D7" alt="STAR Protocols Publication">
     </a>
   </div>
 
@@ -123,7 +123,7 @@ Contributor
       <img src="https://img.shields.io/github/r-package/v/smorabit/hdWGCNA" alt="hdWGCNA Version">
     </a>
     <a class="badge-link" href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/publication-Cell%20Rep%20Meth-%237000FF" alt="Cell Reports Methods Publication">
+      <img src="https://img.shields.io/badge/publication-Cell%20Rep%20Meth-%2300A1D7" alt="Cell Reports Methods Publication">
     </a>
   </div>
 

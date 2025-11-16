@@ -47,7 +47,9 @@ layout: page
     </a>
   </div>
 
-  <p><strong>scROAD</strong> database offers comprehensive information on single-cell cCRE transcription factor occupancy data generated from snATAC-seq analysis of human postmortem prefrontal cortex (PFC) tissue. The data specifically focuses on Alzheimer's Disease and Pick's Disease. For a more in-depth understanding of the database's purpose and contents, please refer to the following publication.</p>
+  <p><strong>scROAD</strong> database offers comprehensive information on single-cell cCRE transcription factor occupancy data generated from snATAC-seq analysis of human postmortem prefrontal cortex (PFC) tissue. The data specifically focuses on Alzheimer's Disease and Pick's Disease.
+  I developed this interactive database, <a href="https://github.com/rootze/scROAD" target="_blank">scROAD</a>, which integrates single-cell chromatin data processed with Signac, cis-regulatory links inferred by Cicero, and TF binding occupancy profiles generated using TOBIAS. We performed single cell co-accessibility analyses using <a href="https://cole-trapnell-lab.github.io/cicero-release/docs_m3/" target="_blank">Cicero</a> to construct putative cis-regulatory enhancer-promoter links. Additionally, with the help from <a href="https://github.com/loosolab/TOBIAS" target="_blank">TOBIAS</a> package, we can further explore transcription factor (TF) binding occupancy in ATAC-seq. This analysis allows us to detect differences in TF binding between disease and control samples, providing insights into how regulatory mechanisms are altered in specific cell types. By integrating TF binding data with co-accessibility analyses to create this scROAD interactive database, users can easily explore transcription factor binding activity and their implications in disease, providing a valuable resource for understanding gene regulation in neurodegeneration.
+  For a more in-depth understanding of the database's purpose and contents, please refer to the <a href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank">Science Advances</a> paper.</p>
 </div>
 
 

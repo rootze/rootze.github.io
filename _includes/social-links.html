@@ -60,12 +60,13 @@
       </a>
     {% endif %} -->
 
-    {% if site.scholar %}
-    <a class="icon-scholar"
-       href="https://scholar.google.com/citations?user={{ site.scholar }}"
-       target="_blank" rel="noopener" aria-label="Google Scholar">
-        <i class="fa-brands fa-google"></i>
-    </a>
+    {% if site.googlescholar %}
+      <a class="icon-scholar"
+         href="https://scholar.google.com/citations?user={{ site.googlescholar }}"
+         target="_blank" rel="noopener" aria-label="Google Scholar">
+        <!-- <i class="fa-brands fa-google"></i> -->
+        <i class="fa-brands fa-google-scholar"></i>
+      </a>
     {% endif %}
 
 </div>

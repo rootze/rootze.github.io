@@ -68,7 +68,7 @@ These findings show that many accessible regions:
 
 ## Open Chromatin Scenarios
 
-![TF Footprinting Scenario](/assets/images/TF_Footprinting_Scenario.png){: class="bigger-image" }
+![TF Footprinting Scenario](https://raw.githubusercontent.com/rootze/scROAD/main/images/TF_Footprinting_Scenario.png){: class="bigger-image" }
 
 <figcaption class="caption">
 **Figure 1.** Open chromatin with (left) and without (right) true TF binding. Many disease-associated accessible regions fall into the *non-functional* category (chromatin relaxation).

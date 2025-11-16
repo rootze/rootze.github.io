@@ -58,12 +58,16 @@ layout: page
 <img class="software-logo" width="100" src="../assets/images/software/ArchRtoSignac.png">
 <img class="software-logo" width="75"  src="../assets/images/software/hdWGCNA.png">
 
-<ul class="software-toc">
+<!-- <ul class="software-toc">
   <li><a href="#scroad">scROAD</a></li>
   <li><a href="#archrtosignac">ArchRtoSignac</a></li>
   <li><a href="#hdwgcna">hdWGCNA</a></li>
+</ul> -->
+<ul class="software-toc">
+  <li><a href="#scroad" style="font-size: 1.4em;">scROAD</a></li>
+  <li><a href="#archrtosignac" style="font-size: 1.4em;">ArchRtoSignac</a></li>
+  <li><a href="#hdwgcna" style="font-size: 1.4em;">hdWGCNA</a></li>
 </ul>
-
 
 <h2>Developer</h2>
 

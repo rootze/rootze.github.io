@@ -91,8 +91,8 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. -- Samue
   <p>
     Sep 2022 – ZeChuan released
     <a href="https://github.com/swaruplabUCI/ArchRtoSignac" target="_blank" rel="noopener">
-      <em>ArchRtoSignac</em>
-    </a>, an object conversion package he developed for seamless integration between ArchR and Signac.
+      <em>ArchRtoSignac</em>,
+    </a> an object conversion package he developed for seamless integration between ArchR and Signac.
   </p>
 </li>
 

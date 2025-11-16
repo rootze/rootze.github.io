@@ -9,10 +9,10 @@ layout: page
 *"The new era of bioinformatics: How foundation models will rewrite the game in functional genomics"*
 
 * November 2024, **Annual Meeting of American Society of Human Genetics**, Denver, CO  
-*"In Silico Module Perturbation Analysis unlocks a functional understanding of the dynamic gene networks in single-cell data"*
+*"In Silico Module Perturbation Analysis unlocks a functional understanding of the dynamic gene networks in single-cell data"* [Link](/assets/images/Conference/ASHG2024_Talk.png)
 
 * July - August 2022, **Alzheimer’s Association International Conference**, San Diego, CA  
-*"Single-nucleus open chromatin accessibility landscape of Pick’s and Alzheimer’s disease"*
+*"Single-nucleus open chromatin accessibility landscape of Pick’s and Alzheimer’s disease"* [Link](https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/61354)
 
 <!-- <h2>Lightening Talks</h2>
 

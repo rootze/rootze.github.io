@@ -26,24 +26,56 @@ layout: page
   margin-right: 6px;
   display: inline-block;
 }
+
+/* NEW: jump menu for packages */
+.software-toc {
+  margin: 20px 0 10px;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.software-toc li {
+  margin: 0;
+}
+.software-toc a {
+  font-size: 0.9rem;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+.software-toc a:hover {
+  border-color: #6c4edb;
+  color: #6c4edb;
+}
 </style>
+
 
 <!-- Top Logos -->
 <img class="software-logo" width="100" src="../assets/images/software/scROAD_database.png">
 <img class="software-logo" width="100" src="../assets/images/software/ArchRtoSignac.png">
 <img class="software-logo" width="75"  src="../assets/images/software/hdWGCNA.png">
 
+<ul class="software-toc">
+  <li><a href="#scroad">scROAD</a></li>
+  <li><a href="#archrtosignac">ArchRtoSignac</a></li>
+  <li><a href="#hdwgcna">hdWGCNA</a></li>
+</ul>
+
+
 <h2>Developer</h2>
 
 <!-- scROAD -->
-<div class="section-block">
+<div class="section-block" id="scroad">
   <a href="https://swaruplab.bio.uci.edu/scROAD/">scROAD</a>
 
   <div class="badges-row">
     <img src="https://img.shields.io/badge/type-interactive%20database-blueviolet" alt="Interactive database">
     <img src="https://img.shields.io/badge/status-online-brightgreen" alt="Status online">
     <a class="badge-link" href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/publication-Science%20Advances-%23008CFF" alt="Science Advances Publication">
+      <img src="https://img.shields.io/badge/publication-Science%20Advances-%237000FF" alt="Science Advances Publication">
     </a>
   </div>
 
@@ -54,7 +86,7 @@ layout: page
 
 
 <!-- ArchRtoSignac -->
-<div class="section-block">
+<div class="section-block" id="archrtosignac">
   <a href="https://github.com/swaruplabUCI/ArchRtoSignac">ArchRtoSignac</a>
 
   <div class="badges-row">
@@ -79,7 +111,7 @@ Contributor
 </h2>
 
 <!-- hdWGCNA -->
-<div class="section-block">
+<div class="section-block" id="hdwgcna">
   <a href="https://github.com/smorabit/hdWGCNA">hdWGCNA</a>
 
   <div class="badges-row">
@@ -87,7 +119,7 @@ Contributor
       <img src="https://img.shields.io/github/r-package/v/smorabit/hdWGCNA" alt="hdWGCNA Version">
     </a>
     <a class="badge-link" href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/publication-Cell%20Rep%20Meth-%2300A1D7" alt="Cell Reports Methods Publication">
+      <img src="https://img.shields.io/badge/publication-Cell%20Rep%20Meth-%237000FF" alt="Cell Reports Methods Publication">
     </a>
   </div>
 

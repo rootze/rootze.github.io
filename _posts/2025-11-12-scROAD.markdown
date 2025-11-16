@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Single-cell Regulatory Occupancy Archive in Dementia"
-date: 2025-01-01 00:00
+date: 2025-11-12 00:00
 tag: scROAD
 image: /assets/images/projects_img/TF_Occupancy.png
 headerImage: false
@@ -17,7 +17,10 @@ importance: 1
 
 ## **Single-cell Regulatory Occupancy Archive in Dementia — [scROAD](https://swaruplab.bio.uci.edu/scROAD/)**
 
-![scROAD](/assets/images/projects_img/TF_Occupancy.png){: width="60%" .center }
+<!-- ![scROAD](/assets/images/projects_img/TF_Occupancy.png){: width="60%" .center } -->
+| ![Fig1](/assets/images/projects_img/TF_Occupancy.png){: width="60%" } | ![Logo](https://raw.githubusercontent.com/rootze/scROAD/main/images/logo_database.png){: width="80%" } |
+| --- | --- |
+| *scROAD overview* | *scROAD dataset logo* |
 
 ---
 

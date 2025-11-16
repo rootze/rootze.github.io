@@ -4,15 +4,21 @@ layout: page
 ---
 <img width="100" src="../assets/images/software/scROAD_database.png">
 <img width="100" src="../assets/images/software/ArchRtoSignac.png">
-<img width="90" src="../assets/images/software/hdWGCNA.png">
+<img width="70" src="../assets/images/software/hdWGCNA.png">
 
 <h2>
 Developer
 </h2>
 
 <a href="https://github.com/swaruplabUCI/ArchRtoSignac">ArchRtoSignac</a>
+<!-- ArchRtoSignac Badges -->
 <img src="https://img.shields.io/badge/version-1.0.5-red.svg">
-<img src="https://img.shields.io/badge/Years%20Active-$(expr $(date +%Y) - 2021)-blueviolet">
+<a href="https://github.com/swaruplabUCI/ArchRtoSignac/issues">
+  <img src="https://img.shields.io/github/issues-raw/swaruplabUCI/ArchRtoSignac?label=open%20issues&color=yellow" alt="Open Issues">
+</a>
+<a href="https://github.com/swaruplabUCI/ArchRtoSignac/issues?q=is%3Aissue+is%3Aclosed">
+  <img src="https://img.shields.io/github/issues-closed-raw/swaruplabUCI/ArchRtoSignac?label=closed%20issues&color=green" alt="Closed Issues">
+</a>
 
 **ArchRtoSignac** is an R package to convert an ArchRProject [(ArchR)](https://www.archrproject.com/index.html) to a Signac SeuratObject [(Signac)](https://satijalab.org/signac/index.html).
 <br>

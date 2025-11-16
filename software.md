@@ -32,7 +32,7 @@ layout: page
   <a href="https://swaruplab.bio.uci.edu/scROAD/">scROAD</a>
   <img src="https://img.shields.io/badge/type-interactive%20database-blueviolet" alt="Interactive database">
   <img src="https://img.shields.io/badge/status-online-brightgreen" alt="Status online">
-  <a href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
+  <a class="badge-link" href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/publication-Science%20Advances-%23008CFF" alt="Science Advances Publication">
   </a>
 
@@ -51,7 +51,7 @@ layout: page
   <a class="badge-link" href="https://github.com/swaruplabUCI/ArchRtoSignac/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed-raw/swaruplabUCI/ArchRtoSignac?label=closed%20issues&color=green" alt="Closed Issues">
   </a>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2666166722003719?via%3Dihub" target="_blank" rel="noopener">
+  <a class="badge-link" href="https://www.sciencedirect.com/science/article/pii/S2666166722003719?via%3Dihub" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/publication-STAR%20Protocols-%237000FF" alt="STAR Protocols Publication">
   </a>
 
@@ -66,10 +66,10 @@ Contributor
 <!-- hdWGCNA -->
 <div class="section-block">
   <a href="https://github.com/smorabit/hdWGCNA">hdWGCNA</a>
-  <a href="https://github.com/smorabit/hdWGCNA/tree/dev">
+  <a class="badge-link" href="https://github.com/smorabit/hdWGCNA/tree/dev">
     <img src="https://img.shields.io/github/r-package/v/smorabit/hdWGCNA" alt="hdWGCNA Version">
   </a>
-  <a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3" target="_blank" rel="noopener">
+  <a class="badge-link" href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00127-3" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/publication-Cell%20Rep%20Meth-%2300A1D7" alt="Cell Reports Methods Publication">
   </a>
 

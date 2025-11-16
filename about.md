@@ -70,8 +70,8 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. -- Samue
   <p>
     Nov 2025 – 🚨 Our new paper is out in
     <a href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
-      <em>Science Advances</em>
-    </a>!
+      <em>Science Advances</em>!
+    </a>
     We mapped single-cell regulatory landscapes in Alzheimer’s disease (AD) and Pick’s disease (PiD) to uncover how distinct enhancer and transcription factor programs shape disease-specific vulnerability. ✨ 😄 🧠
   </p>
 </li>

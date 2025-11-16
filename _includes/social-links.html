@@ -37,12 +37,6 @@
         </a>
     {% endif %}
 
-    {% if site.orcid %}
-        <a href="https://orcid.org/{{ site.orcid }}" class="icon-orcid" target="_blank" rel="noopener">
-          <!-- your ORCID SVG/icon here -->
-          <i class="fa-brands fa-orcid"></i>
-        </a>
-    {% endif %}
 
     <!-- {% if site.researchgate %} -->
       <!-- <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" class="icon-rg" target="_blank" rel="noopener"> -->
@@ -59,14 +53,25 @@
        <i class="fa-brands fa-google-scholar"></i>
       </a>
     {% endif %} -->
-
-    {% if site.googlescholar %}
-      <a class="icon-scholar"
-         href="https://scholar.google.com/citations?user={{ site.googlescholar }}"
-         target="_blank" rel="noopener" aria-label="Google Scholar">
-        <i class="fa-brands fa-google"></i>
-        <!-- <i class="fa-brands fa-google-scholar"></i> -->
+    {% if site.orcid %}
+      <a class="link icon-orcid"
+         href="https://orcid.org/{{ site.orcid }}"
+         target="_blank"
+         rel="noopener"
+         aria-label="ORCID">
+        <i class="fa-brands fa-orcid"></i>
       </a>
     {% endif %}
+
+    {% if site.scholar %}
+      <a class="link icon-scholar"
+         href="https://scholar.google.com/citations?user={{ site.scholar }}"
+         target="_blank"
+         rel="noopener"
+         aria-label="Google Scholar">
+        <i class="fa-brands fa-google"></i>
+      </a>
+    {% endif %}
+
 
 </div>

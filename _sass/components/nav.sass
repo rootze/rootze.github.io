@@ -27,6 +27,24 @@
             font-size: 1.4rem
             padding: 20px 10px
 
+// .nav-home
+//     margin-top: 40px
+//     text-align: center
+//
+//     > .list
+//         padding: 0
+//
+//         > .item > .link
+//             font-size: 2rem
+//             padding: 7px 15px
+//             margin: 0
+//             border-radius: 4%
+//             transition: all .4s ease-in-out
+//             width: 70px
+//
+//             &:hover
+//                 color: $alpha
+
 .nav-home
     margin-top: 40px
     text-align: center
@@ -34,13 +52,16 @@
     > .list
         padding: 0
 
-        > .item > .link
-            font-size: 2rem
-            padding: 7px 15px
-            margin: 0
-            border-radius: 4%
-            transition: all .4s ease-in-out
-            width: 70px
+        > .item
+            display: inline-block
+            margin: 0 10px          // add horizontal space between items
 
-            &:hover
-                color: $alpha
+            > .link
+                font-size: 2rem
+                padding: 7px 15px
+                border-radius: 4%
+                transition: all .4s ease-in-out
+                width: auto         // let links size based on text
+
+                &:hover
+                    color: $alpha

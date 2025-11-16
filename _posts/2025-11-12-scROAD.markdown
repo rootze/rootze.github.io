@@ -4,20 +4,20 @@ title: "Single-cell Regulatory Occupancy Archive in Dementia"
 date: 2025-01-01 00:00
 tag: scROAD
 image: /assets/images/projects_img/TF_Occupancy.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: false
 description: "scROAD — A database offering comprehensive single-cell cCRE transcription factor occupancy data"
 category: research
-author: johndoe
+author: zechuan
 externalLink: false
 related_publications: true
 importance: 1
 ---
 
-![Screenshot](/assets/images/projects_img/TF_Occupancy.png)
+## **Single-cell Regulatory Occupancy Archive in Dementia — [scROAD](https://swaruplab.bio.uci.edu/scROAD/)**
 
-**Single-cell Regulatory Occupancy Archive in Dementia — [scROAD](https://swaruplab.bio.uci.edu/scROAD/)**
+![scROAD](/assets/images/projects_img/TF_Occupancy.png){: width="60%" .center }
 
 ---
 

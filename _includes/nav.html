@@ -6,10 +6,34 @@
             </li>
         {% endif %}
 
-        {% if site.blog == true %}
-            {% if page.title != "Blog" %}
+        {% if site.about == true %}
+            {% if page.title != "About" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link" href="{{ site.url }}/about">About</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.software == true %}
+            {% if page.title != "Software" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/software">Software</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.publications == true %}
+            {% if page.title != "Publications" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/publications">Publications</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.presentations == true %}
+            {% if page.title != "Presentations" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/presentations">Presentations</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -22,10 +46,10 @@
             {% endif %}
         {% endif %}
 
-        {% if site.about == true %}
-            {% if page.title != "About" %}
+        {% if site.blog == true %}
+            {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
             {% endif %}
         {% endif %}

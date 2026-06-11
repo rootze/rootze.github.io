@@ -30,6 +30,14 @@
             {% endif %}
         {% endif %}
 
+        {% if site.towards_virtual_cell == true %}
+            {% if page.title != "Towards Virtual Cell" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/towards-virtual-cell">Towards Virtual Cell</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
         {% if site.presentations == true %}
             {% if page.title != "Presentations" %}
                 <li class="item">

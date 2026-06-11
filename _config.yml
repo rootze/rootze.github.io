@@ -79,9 +79,10 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 # if you don't need "about" or "blog", comment them out below
 about: false
-projects: true
+projects: false
 software: true
-publications: true
+publications: false
+towards_virtual_cell: true
 presentations: true
 blog: true
 # teaching: true

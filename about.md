@@ -19,7 +19,7 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
 
 <p>
-I am a Bioinformatics Ph.D. candidate in
+I recently earned my Ph.D. in Bioinformatics from
 <a href="https://swaruplab.bio.uci.edu/" target="_blank" rel="noopener">Dr. Vivek Swarup’s lab</a>
 at the University of California, Irvine. My research focuses on leveraging statistical methods,
 single-cell multi-omics, and computational modeling to investigate the molecular mechanisms of

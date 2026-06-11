@@ -54,6 +54,7 @@ layout: page
 
 
 <!-- Top Logos -->
+<img class="software-logo" width="100" src="../assets/images/software/compact.png">
 <img class="software-logo" width="100" src="../assets/images/software/scROAD_database.png">
 <img class="software-logo" width="100" src="../assets/images/software/ArchRtoSignac.png">
 <img class="software-logo" width="75"  src="../assets/images/software/hdWGCNA.png">
@@ -64,12 +65,27 @@ layout: page
   <li><a href="#hdwgcna">hdWGCNA</a></li>
 </ul> -->
 <ul class="software-toc">
+  <li><a href="#compact" style="font-size: 0.8em;">COMPACT</a></li>
   <li><a href="#scroad" style="font-size: 0.8em;">scROAD</a></li>
   <li><a href="#archrtosignac" style="font-size: 0.8em;">ArchRtoSignac</a></li>
   <li><a href="#hdwgcna" style="font-size: 0.8em;">hdWGCNA</a></li>
 </ul>
 
 <h2>Developer</h2>
+
+<!-- COMPACT -->
+<div class="section-block" id="compact">
+  <a href="https://smorabit.github.io/compact/" target="_blank" rel="noopener">COMPACT</a>
+
+  <div class="badges-row">
+    <img src="https://img.shields.io/badge/version-0.0.3-red.svg" alt="Version 0.0.3">
+    <img src="https://img.shields.io/badge/type-R%20package-blueviolet" alt="R package">
+    <img src="https://img.shields.io/badge/status-alpha-orange" alt="Status alpha">
+  </div>
+
+  <p><strong>COMPACT</strong> is a framework for performing CO-expression Module Perturbation Analysis in Cellular Transcriptomes. Building on co-expression networks from <a href="https://smorabit.github.io/hdWGCNA/" target="_blank" rel="noopener">hdWGCNA</a>, COMPACT applies direct perturbations to network hub genes and propagates perturbation signals through linked genes in the network. The package supports knock-in, knock-down, and knock-out perturbation strategies across different networks, gene sets, and cell lineages.</p>
+</div>
+
 
 <!-- scROAD -->
 <div class="section-block" id="scroad">

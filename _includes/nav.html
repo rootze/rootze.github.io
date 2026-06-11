@@ -54,9 +54,9 @@
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
+        {% if site.cv == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
+                <a class="link" href="{% if site.cv-external %}{{ site.cv-url }}{% else %}{{ site.url }}/{{ site.cv-url }}{% endif %}">CV</a>
             </li>
         {% endif %}
     </ul>

@@ -14,11 +14,11 @@ picture: assets/images/profile.jpg
 # false to light theme, auto to switch with system.
 dark-theme: auto
 
-# If you want to include your resume, set to true
+# If you want to include your CV, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: /assets/documents/ZechuanShiCV.pdf
+cv: true
+cv-external: true
+cv-url: /assets/documents/ZechuanShiCV.pdf
 
 url: https://rootze.github.io/
 # your url: https://USERNAME.github.io

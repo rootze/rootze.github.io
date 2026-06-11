@@ -2,3 +2,184 @@
 layout: page
 title: Home
 ---
+
+<section class="home-profile">
+  <aside class="home-profile__sidebar">
+    <img
+      class="home-profile__photo"
+      alt="{{ site.title }}"
+      src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}"
+    />
+
+    <h1>{{ site.title }}</h1>
+    <p class="home-profile__tagline">{{ site.bio }}</p>
+
+    <div class="home-profile__rule"></div>
+
+    <p>
+      Bioinformatics Ph.D. candidate studying Alzheimer's disease with
+      statistical genetics, single-cell multi-omics, and computational modeling.
+    </p>
+
+    <div class="home-profile__links">
+      {% if site.googlescholar %}
+        <a href="https://scholar.google.com/citations?user={{ site.googlescholar }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-google"></i>
+          <span>Google Scholar</span>
+        </a>
+      {% endif %}
+
+      {% if site.researchgate %}
+        <a href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-researchgate"></i>
+          <span>ResearchGate</span>
+        </a>
+      {% endif %}
+
+      {% if site.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-linkedin"></i>
+          <span>LinkedIn</span>
+        </a>
+      {% endif %}
+
+      {% if site.twitter %}
+        <a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-x-twitter"></i>
+          <span>Twitter / X</span>
+        </a>
+      {% endif %}
+
+      {% if site.github %}
+        <a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-github"></i>
+          <span>GitHub</span>
+        </a>
+      {% endif %}
+
+      {% if site.orcid %}
+        <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">
+          <i class="fa-brands fa-orcid"></i>
+          <span>ORCID</span>
+        </a>
+      {% endif %}
+
+      {% if site.email %}
+        <a href="mailto:{{ site.email }}" rel="noopener">
+          <i class="fa-regular fa-envelope"></i>
+          <span>Email</span>
+        </a>
+      {% endif %}
+    </div>
+  </aside>
+
+  <main class="home-profile__content">
+    <p class="home-profile__eyebrow">The Story</p>
+    <h2>About</h2>
+    <p class="home-profile__lede">
+      Statistical methods, single-cell multi-omics, and computational modeling
+      for understanding neurodegenerative disease.
+    </p>
+
+    <p>
+      I am a Bioinformatics Ph.D. candidate in
+      <a href="https://swaruplab.bio.uci.edu/" target="_blank" rel="noopener">Dr. Vivek Swarup's lab</a>
+      at the University of California, Irvine. My research focuses on leveraging
+      statistical methods, single-cell multi-omics, and computational modeling to
+      investigate the molecular mechanisms of Alzheimer's disease, with the
+      long-term goal of identifying new therapeutic targets.
+    </p>
+
+    <p>
+      Before starting my Ph.D., I graduated from
+      <a href="https://www.jhu.edu/" target="_blank" rel="noopener">Johns Hopkins University</a>
+      with a degree in Biotechnology. I then worked as a research specialist in
+      <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p20564" target="_blank" rel="noopener">Dr. Lewis Chodosh's lab</a>
+      at the University of Pennsylvania, where I contributed to developing
+      treatments for recurrent breast cancer. There, I performed hands-on drug
+      efficacy studies and applied statistical analyses across four preclinical
+      trials. My earlier research experience includes siRNA knockdowns, flow
+      cytometry, tissue culture, and other molecular biology approaches that
+      helped shape my interest in biomedical science.
+    </p>
+
+    <blockquote>
+      Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+      <br />
+      Samuel Beckett
+    </blockquote>
+
+    <section class="home-profile__section">
+      <h3>Research Interests</h3>
+      <ul class="interest-list">
+        <li>Statistical methods of genomics data</li>
+        <li>RNA-seq, scRNA-seq data and multi-omics</li>
+        <li>Statistical genetics</li>
+        <li>Empirical Bayes methods</li>
+        <li>Causal inference methods</li>
+      </ul>
+    </section>
+
+    <section class="home-profile__section">
+      <h3>Skills</h3>
+      <ul class="skill-list">
+        <li>R - package development, data analysis and visualization</li>
+        <li>Python - data analysis and statistical procedures</li>
+        <li>SQL - MySQL</li>
+        <li>High Performance Computing - slurm</li>
+        <li>UNIX commands and bash script writing</li>
+        <li>Git</li>
+      </ul>
+    </section>
+
+    <section class="home-profile__section">
+      <h3>Personal News</h3>
+      <ul class="news-list">
+        <li>
+          <p>
+            Nov 2025 - Our new paper is out in
+            <a href="https://www.science.org/doi/10.1126/sciadv.ads7973" target="_blank" rel="noopener">
+              <em>Science Advances</em>.
+            </a>
+            We mapped single-cell regulatory landscapes in Alzheimer's disease
+            and Pick's disease to uncover how distinct enhancer and transcription
+            factor programs shape disease-specific vulnerability.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            October 2024 - ZeChuan presented
+            <a href="/assets/images/Conference/ASHG2024_Talk.png" target="_blank" rel="noopener">
+              <em>In Silico Module Perturbation Analysis unlocks a functional understanding of the dynamic gene networks in single-cell data</em>
+            </a>
+            at the American Society of Human Genetics Annual Meeting 2024 in
+            Denver, CO.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Sep 2022 - ZeChuan released
+            <a href="https://github.com/swaruplabUCI/ArchRtoSignac" target="_blank" rel="noopener">
+              <em>ArchRtoSignac</em>
+            </a>,
+            an object conversion package for seamless integration between ArchR
+            and Signac.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            July 2022 - ZeChuan presented
+            <a href="https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/61354" target="_blank" rel="noopener">
+              <em>Single-nucleus open chromatin accessibility landscape of Pick's and Alzheimer's disease</em>
+            </a>
+            at the Alzheimer's Association International Conference 2022 in San
+            Diego, CA.
+          </p>
+        </li>
+      </ul>
+    </section>
+  </main>
+</section>

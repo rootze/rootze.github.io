@@ -10,3 +10,119 @@
         width: 50%
         margin: 0 auto
         display: block
+
+.home
+    margin-top: 90px
+
+.home-profile
+    display: grid
+    grid-template-columns: 280px minmax(0, 1fr)
+    gap: 70px
+    align-items: start
+
+    @media #{$below}
+        grid-template-columns: 1fr
+        gap: 40px
+
+    &__sidebar
+        position: sticky
+        top: 40px
+        text-align: center
+
+        @media #{$below}
+            position: static
+            max-width: 520px
+            margin: 0 auto
+
+        > h1
+            margin: 0 0 10px
+            font-size: 3.2rem
+
+        > p
+            margin-bottom: 18px
+
+    &__photo
+        width: 210px
+        height: 210px
+        object-fit: cover
+        border-radius: 100%
+        margin: 0 auto 28px
+        display: block
+        box-shadow: 0 8px 28px rgba(0, 0, 0, .16)
+
+    &__tagline
+        color: $gama
+        font-size: 1.8rem
+        line-height: 1.5
+
+    &__rule
+        width: 52px
+        height: 3px
+        background: $delta
+        margin: 24px auto
+        opacity: .7
+
+    &__links
+        display: grid
+        gap: 12px
+        margin-top: 28px
+        text-align: left
+
+        @media #{$below}
+            grid-template-columns: repeat(2, minmax(0, 1fr))
+
+        @media #{$mobile}
+            grid-template-columns: 1fr
+
+        > a
+            display: inline-flex
+            align-items: center
+            gap: 12px
+            color: $alpha
+            font-weight: 300
+            text-decoration: none
+
+            &:hover
+                color: $delta
+
+            > i
+                width: 22px
+                text-align: center
+                color: $delta
+
+    &__content
+        min-width: 0
+
+        > h2
+            margin: 0 0 18px
+            font-size: 4rem
+
+        > blockquote
+            margin: 32px 0
+            color: $gama
+
+    &__eyebrow
+        margin-bottom: 16px
+        color: $delta
+        font-size: 1.4rem
+        font-weight: 700
+        letter-spacing: 4px
+        text-transform: uppercase
+
+    &__lede
+        color: $gama
+        font-size: 2rem
+        line-height: 1.5
+        margin-bottom: 34px
+
+    &__section
+        margin-top: 44px
+
+        > h3
+            border-bottom: 1px solid $epsilon
+            padding-bottom: 12px
+            margin-bottom: 18px
+            font-size: 2.4rem
+
+        > ul
+            padding-left: 22px
